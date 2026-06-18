@@ -1,4 +1,4 @@
-# LungDetect AI
+# LungDetect A
 
 An educational machine-learning project that detects pneumonia from chest X-ray images using transfer learning. Built for our school's *Tech for Change* program.
 
